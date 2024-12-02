@@ -386,12 +386,12 @@ img {
 }
 #aa-header .aa-header-bottom .aa-header-bottom-area .aa-logo a > span {
   display: inline-block;
-  float: left;
+  float: none;
   font-size: 50px;
 }
 #aa-header .aa-header-bottom .aa-header-bottom-area .aa-logo a p {
   display: inline-block;
-  float: left;
+  float: none;
   font-weight: bold;
   margin-bottom: 0;
   margin-left: 5px;
@@ -632,7 +632,7 @@ img {
 }
 #menu .menu-area .navbar-default .navbar-nav {
   display: inline-block;
-  float: left;
+  float: none;
   margin: 0;
   text-align: center;
   width: 100%;
@@ -1772,7 +1772,7 @@ img {
 }
 #aa-catg-head-banner .aa-catg-head-banner-area .aa-catg-head-banner-content {
   display: inline-block;
-  float: left;
+  float: none;
   padding: 10% 0;
   text-align: center;
   width: 100%;
@@ -2997,7 +2997,7 @@ img {
   width: 100%;
 }
 .aa-blog-details .aa-blog-navigation .aa-blog-prev {
-  float: left;
+  float: none;
   display: inline-block;
   color: #fff;
   font-weight: bold;
@@ -3010,7 +3010,7 @@ img {
   margin-right: 10px;
 }
 .aa-blog-details .aa-blog-navigation .aa-blog-next {
-  float: right;
+  float:none;
   display: inline-block;
   color: #fff;
   font-weight: bold;
@@ -3063,7 +3063,7 @@ img {
 .aa-blog-details .aa-blog-comment-threat .comments .commentlist li .reply-btn {
   color: #fff;
   display: inline-block;
-  float: right;
+  float: none;
   font-size: 15px;
   line-height: 16px;
   padding: 8px 12px;
@@ -3423,7 +3423,7 @@ img {
 #aa-footer .aa-footer-bottom .aa-footer-bottom-area > p {
   color: #888;
   display: inline-block;
-  float: left;
+  float: none;
   font-size: 14px;
   font-weight: bold;
   letter-spacing: 1px;
