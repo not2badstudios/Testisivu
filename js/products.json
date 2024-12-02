@@ -1,11 +1,11 @@
 [
     {
       "id": 1,
-      "name": "Polo T-Shirt",
+      "name": "T-paita",
       "price": "45.50",
       "discounted_price": "65.50",
       "image": "img/man/polo-shirt-2.png",
-      "category": "Men",
+      "category": "Miehille",
       "badge": "SALE"
     },
     {
