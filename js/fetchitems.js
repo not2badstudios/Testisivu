@@ -22,11 +22,7 @@ fetch('js/products.json')
               ${product.discounted_price ? `<span class="aa-product-price"><del>$${product.discounted_price}</del></span>` : ''}
             </figcaption>
           </figure>
-          <div class="aa-product-hvr-content">
-            <a href="#" data-toggle="tooltip" data-placement="top" title="Add to Wishlist"><span class="fa fa-heart-o"></span></a>
-            <a href="#" data-toggle="tooltip" data-placement="top" title="Compare"><span class="fa fa-exchange"></span></a>
-            <a href="#" data-toggle="tooltip" data-placement="top" title="Quick View" data-toggle="modal" data-target="#quick-view-modal"><span class="fa fa-search"></span></a>                            
-          </div>
+
           ${product.badge ? `<span class="aa-badge aa-${product.badge.toLowerCase()}">${product.badge}</span>` : ''}
         </li>
       `;

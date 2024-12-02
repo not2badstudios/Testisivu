@@ -9,6 +9,8 @@
 
     {"id": 1,"name": "NAISEN PAITA","price": "45.50","discounted_price": "65.50","image": "img/man/polo-shirt-2.png","category": "women","badge": "SALE"},
 
+    {"id": 1,"name": "NAISEN PAITA","price": "45.50","discounted_price": "65.50","image": "img/man/polo-shirt-2.png","category": "women","badge": "SALE"},
+
     {"id": 1,"name": "HOUSU","price": "45.50","discounted_price": "65.50","image": "img/man/polo-shirt-2.png","category": "shirts","badge": "SALE"},
 
     {"id": 1,"name": "PAITA","price": "45.50","discounted_price": "65.50","image": "img/man/polo-shirt-2.png","category": "pants","badge": "SALE"}
