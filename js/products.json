@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "name": "Polo T-Shirt",
+      "price": "45.50",
+      "discounted_price": "65.50",
+      "image": "img/man/polo-shirt-2.png",
+      "category": "Men",
+      "badge": "SALE"
+    },
+    {
+      "id": 2,
+      "name": "T-Shirt",
+      "price": "45.50",
+      "image": "img/man/t-shirt-1.png",
+      "category": "Men",
+      "badge": "Sold Out"
+    }
+  ]
